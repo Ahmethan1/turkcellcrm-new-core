@@ -14,7 +14,7 @@
 	<name>core</name>
 	<description>Microservice core package</description>
 	<packaging>jar</packaging>
-	<url>https://github.com/rozeringunes/telco-crm-core</url>
+	<url>https://github.com/rozeringunes/turkcellcrm-new-core</url>
 	<build>
 		<plugins>
 			<plugin>
@@ -95,16 +95,16 @@
 		</repository>
 	</distributionManagement>
 	<scm>
-		<connection>scm:git:git://github.com/rozeringunes/telco-crm-core.git</connection>
-		<developerConnection>scm:git:ssh://github.com/rozeringunes/telco-crm-core.git</developerConnection>
-		<url>https://github.com/rozeringunes/telco-crm-core</url>
+		<connection>scm:git:git://github.com/rozeringunes/turkcellcrm-new-core</connection>
+		<developerConnection>scm:git:ssh://github.com/rozeringunes/turkcellcrm-new-core</developerConnection>
+		<url>https://github.com/rozeringunes/turkcellcrm-new-core</url>
 	</scm>
 	<developers>
 		<developer>
 			<name>Rozerin Gunes</name>
 			<email>rozeringunes65@gmail.com</email>
 			<organization>io.github.rozeringunes</organization>
-			<organizationUrl>https://github.com/rozeringunes/telco-crm-core/</organizationUrl>
+			<organizationUrl>https://github.com/rozeringunes/turkcellcrm-new-core/</organizationUrl>
 		</developer>
 	</developers>
 	<properties>
